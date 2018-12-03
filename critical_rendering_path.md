@@ -1,4 +1,5 @@
 ## Critical Rendering Path
+#### sequence of steps browser goes through to render the page.
 <br/>
 How exactly does the browser go from consuming our HTML, CSS, and JavaScript to rendered pixels on the screen?
 <br/>
